@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7c5392fa790ac20449e94b8bba753c57
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coin: {instanceID: 0}
+  - merdiven: {instanceID: 0}
+  - engel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
